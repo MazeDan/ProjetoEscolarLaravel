@@ -6,11 +6,11 @@ Trazer uma atualização na parte Tecnologica na escola, resolvendo pontos espec
 
 **Projeto** | **Descrição** | **Concluido**
 :----------: | :--------: | :--------: 
-Sistema de Login|
+Sistema de Login| Diferença de Logins e restrições
 Sistema de Postagens | 
 Sistema de Notas | 
 Sistema de Atividade|
-Sistema de 
+
 
 
 
